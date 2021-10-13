@@ -1,0 +1,2 @@
+inputimeout==1.0.4
+pyenchant==3.2.2
